@@ -1,0 +1,11 @@
+File created on: 15/ 08/ 31 16:22:53
+Model: IGRF2015
+Date Range: 2015.00 "2015-01-01" to 2015.00 "2015-01-01" (step = 5.00)
+Latitude Range -90.00 to 90.00 (step = 0.50, rows = 361)
+Longitude Range -180.00 to 180.00 (step = 0.50, cols = 721)
+Elev: 0.00 km Elem: declination SV: Secular Variation
+ncols 721
+nrows 361
+xllcenter -180.00
+yllcenter -90.00
+cellsize 0.50
