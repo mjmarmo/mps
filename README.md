@@ -5,7 +5,6 @@ Description:
 Computes location in GPS using magnetic field data. 
 Geomagnetic data collected from International Geomagnetic Reference Field (IGRF) 2015 model.
 
-Data:
 File naming conventions:
 - F = Total Intensity
 - H = Horizontal Intensity
